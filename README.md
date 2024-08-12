@@ -47,7 +47,7 @@ You have to check in manually first to get your cookie, follow these steps (clic
    <img src="https://github.com/sglkc/hoyolab-auto-daily/assets/31957516/3ce70d90-6d5d-4353-ab35-8476c44124a1" />
    </details>
    <details>
-   Edit: just include all the account id or token related cookies, with their matching names.
+   <summary>Edit: just include all the account id or token related cookies, with their matching names.</summary>
    </details>
 
 7. <details open>
