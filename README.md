@@ -48,8 +48,8 @@ You have to check in manually first to get your cookie, follow these steps (clic
    </details>
 
 6.5 <details>
-    <summary>Edit: just include all the account id or token related cookies, with their matching names.<summary>
-    <details>
+    <summary>Edit: just include all the account id or token related cookies, with their matching names.</summary>
+    </details>
 
 7. <details open>
    <summary>Write <code>ltuid_v2=PASTE_ltuid_v2; ltoken_v2=PASTE_ltoken_v2</code> like the screenshot.</summary>
