@@ -46,10 +46,9 @@ You have to check in manually first to get your cookie, follow these steps (clic
    <summary>Find <code>ltoken_v2</code> and <code>ltuid_v2</code>, click on them, and copy the value below.</summary>
    <img src="https://github.com/sglkc/hoyolab-auto-daily/assets/31957516/3ce70d90-6d5d-4353-ab35-8476c44124a1" />
    </details>
-
-6.5 <details>
-    <summary>Edit: just include all the account id or token related cookies, with their matching names.</summary>
-    </details>
+   <details>
+   <summary>Edit: just include all the account id or token related cookies, with their matching names.</summary>
+   </details>
 
 7. <details open>
    <summary>Write <code>ltuid_v2=PASTE_ltuid_v2; ltoken_v2=PASTE_ltoken_v2</code> like the screenshot.</summary>
